@@ -1,18 +1,23 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there,%20I'm%20Deepak%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- Animated neon wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Hi%20there,%20I'm%20Deepak%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing animation -->
 <a href="https://github.com/Munakaladeepak">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deepak+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;Learning+Web+Dev+%26+DSA+%F0%9F%9A%80;Turning+Ideas+Into+Websites+%E2%9C%A8;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deepak+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;Learning+Web+Dev+%26+DSA+%F0%9F%9A%80;Turning+Ideas+Into+Websites+%E2%9C%A8;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
+
+<!-- Animated rainbow divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
 
----
-
 ## 💫 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```yaml
 🎓 Education     : CSE Undergraduate Student
@@ -25,7 +30,24 @@
 ⚡ Mission       : Turning ideas into beautifully functional websites
 ```
 
----
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 💡 Quote of the Moment
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Programming Quote" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -37,11 +59,15 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 💻 Tech Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,python,react,vue,nodejs,fastapi,mysql,postgres,bootstrap,git,github,figma&theme=dark&perline=8" />
+
+<br/><br/>
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,7 +97,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -84,7 +110,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -94,7 +120,7 @@
 
 > ℹ️ This snake animation needs a one-time GitHub Actions setup — see the note at the bottom of this file for instructions.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📈 Activity Graph
 
@@ -102,13 +128,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munakaladeepak&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Munakaladeepak&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Munakaladeepak&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=2C5364&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=150&section=footer&animation=twinkling" />
 
 </div>
 
