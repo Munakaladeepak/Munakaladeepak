@@ -86,14 +86,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Munakaladeepak&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -104,10 +96,10 @@
 
 ---
 
-## 🔝 Top Contributed Repo
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Munakaladeepak&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munakaladeepak&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
